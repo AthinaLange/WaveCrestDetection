@@ -52,6 +52,8 @@ The community edition is free and can be installed on Ubuntu using the Ubuntu So
 ## Dataset
 
 ### Training dataset
+Full training dataset and resulting model can be found in GoogleDrive: training_data
+https://tinyurl.com/timestack
 
 RGB Image
 ```
